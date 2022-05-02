@@ -1,1 +1,1 @@
-My version of the css cards rom Fireship
+My version of the css cards from Fireship
